@@ -1,0 +1,466 @@
+{
+    "Questions" : {
+       "0" : {
+           "question" : "﻿Trong truyên ngắn ”ông lão đánh cá và con cá vàng”, ông lão đã ra biển mấy lần",
+           "option1"  : "3",
+           "option2"  : "4",
+           "option3"  : "5",
+           "option4"  : "6",
+           "answer"   : "6"
+        },
+       "1" : {
+           "question" : "Cho đến năm 2007  Thái Lan Đã tổ chức bao nhiêu lần đại hội  SEA Games ?",
+           "option1"  : "3",
+           "option2"  : "4",
+           "option3"  : "5",
+           "option4"  : "6",
+           "answer"   : "6"
+        },
+       "2" : {
+           "question" : "Ai Đã khắc chữ ” Nam  thiên đệ Nhất động “lên của động hương tích?",
+           "option1"  : "Chúa Trịnh Sâm",
+           "option2"  : "Chu Mạnh Trinh",
+           "option3"  : "Vua Bảo Đại",
+           "option4"  : "Nam Phương Hoàng hậu",
+           "answer"   : "Chúa Trịnh Sâm"
+        },
+       "3" : {
+           "question" : "Hồ nước ngọt nào lớn nhất theo thê tích và sâu nhất thê giới ?",
+           "option1"  : "Hồ  Victoria",
+           "option2"  : "Hồ Ladoga",
+           "option3"  : "Hồ  Lhagba Pool",
+           "option4"  : "Hồ  Baikal",
+           "answer"   : "Hồ  Baikal"
+        },
+       "4" : {
+           "question" : "Nơi có hải cảng sầm uất nhất thế giới , bạn cho biết tên  thành phố này ?",
+           "option1"  : "London",
+           "option2"  : "Thượng Hải",
+           "option3"  : "New York",
+           "option4"  : "Trân Châu Cảng",
+           "answer"   : "Thượng Hải"
+        },
+       "5" : {
+           "question" : "Con Sên Có Mấy cái mũi ?",
+           "option1"  : "4",
+           "option2"  : "3",
+           "option3"  : "93",
+           "option4"  : "6",
+           "answer"   : "4"
+        },
+       "6" : {
+           "question" : "Ông tổ  Của ” Đờn ca tài tử ” ?",
+           "option1"  : "Nguyễn Văn Chánh",
+           "option2"  : "Cao Bá Long",
+           "option3"  : "Cao Văn Lầu",
+           "option4"  : "Nguyễn Thượng Hiền",
+           "answer"   : "Cao Văn Lầu"
+        },
+       "7" : {
+           "question" : "CLB Real Madrid Đã  bao nhiêu lần vô địch  Cúp C1  Châu âu ?",
+           "option1"  : "6",
+           "option2"  : "7",
+           "option3"  : "9",
+           "option4"  : "10",
+           "answer"   : "10"
+        },
+       "8" : {
+           "question" : "Cây Ca cao có nguồn gốc  từ châu lục nào ?",
+           "option1"  : "Châu Á",
+           "option2"  : "Châu Âu",
+           "option3"  : "Châu Phi",
+           "option4"  : "Châu Mỹ",
+           "answer"   : "Châu Mỹ"
+        },
+       "9" : {
+           "question" : "Đặc điểm nào sau đâyở người gắn liền với sự  phát triền của tiếng nói ?",
+           "option1"  : "Răng Nanh kém phát triển",
+           "option2"  : "Trán rộng và thẳng",
+           "option3"  : " Xương hàm  dưới  cằm lồi rõ",
+           "option4"  : "Cờ hốc Mắt không có",
+           "answer"   : " Xương hàm  dưới  cằm lồi rõ"
+        },
+       "10" : {
+           "question" : "Năm 1928  , nhân vật hoạt hình nào lần đầu tiên xuất hiện ?",
+           "option1"  : "Chuột Mickey",
+           "option2"  : "Vit Donald",
+           "option3"  : "Thuỷ  Thủ Popeye",
+           "option4"  : "Tom & jerry",
+           "answer"   : "Chuột Mickey"
+        },
+       "11" : {
+           "question" : "Thuật Ngữ Tôn giáo co nguồn gốc từ đâu ?",
+           "option1"  : "Việt nam ",
+           "option2"  : "Phuong tây",
+           "option3"  : "Thailand",
+           "option4"  : "Lào",
+           "answer"   : "Phuong tây"
+        },
+       "12" : {
+           "question" : "Núi lửa hoạt động lớn nhất thế giới hiện nay nằm ở đâu ?",
+           "option1"  : "Quần Đảo hawail",
+           "option2"  : "Nhật Bản",
+           "option3"  : "Philippines",
+           "option4"  : "Indonesia",
+           "answer"   : "Quần Đảo hawail"
+        },
+       "13" : {
+           "question" : "Văn Miếu , trường đại học đầu tiên của việt nam , được xây dựng dưới  triều đại nào ?",
+           "option1"  : "Nhà Họ Trần",
+           "option2"  : "Nhà Họ Trần",
+           "option3"  : "Nhà Họ Ngô",
+           "option4"  : "Nhà Họ Nguyễn",
+           "answer"   : "Nhà Họ Trần"
+        },
+       "14" : {
+           "question" : "Hoa Hậu Hoàng Vũ năm 2007 Thuộc Quốc gia nào ?",
+           "option1"  : "Trung Quốc",
+           "option2"  : "Velezela",
+           "option3"  : "Nhật Bản",
+           "option4"  : "Mỹ",
+           "answer"   : "Nhật Bản"
+        },
+       "15" : {
+           "question" : "Câu Lạc Bộ nào được liên đoàn bóng đá thế giớ FIFA  chọn là cạu lạc bộ xuất sắc nhất thế kỷ 20 ?",
+           "option1"  : "MU",
+           "option2"  : "Barcelona",
+           "option3"  : "Real  Madrid",
+           "option4"  : "Juventus",
+           "answer"   : "Real  Madrid"
+        },
+       "16" : {
+           "question" : "Đất nước nào trên thế giới có hình dạng giống Quả ớt ?",
+           "option1"  : "Cuba",
+           "option2"  : "Chile",
+           "option3"  : "Brazil",
+           "option4"  : " Lào",
+           "answer"   : "Chile"
+        },
+       "17" : {
+           "question" : "Tác giả Của bài Thơ ” Nhớ Con Sông Quê hương” ?",
+           "option1"  : "nguyễn Thi",
+           "option2"  : "Đỗ Trung Quân",
+           "option3"  : "Tế hanh",
+           "option4"  : "Quang Dũng",
+           "answer"   : "Tế hanh"
+        },
+       "18" : {
+           "question" : "Tên tiếng anh viết tắt hệ thống tiền tệ chạu âu  là gì ?",
+           "option1"  : "EMU",
+           "option2"  : "EMS",
+           "option3"  : "EFTA",
+           "option4"  : "ECU",
+           "answer"   : "EMS"
+        },
+       "19" : {
+           "question" : "Hoàng hậu Mari Antoanet  Của Nước pháp  la vợ Của vua nào ?",
+           "option1"  : "Luis 16",
+           "option2"  : "Luis 15 Luis 14",
+           "option3"  : "Luis 18",
+           "option4"  : "Luis 18",
+           "answer"   : "Luis 16"
+        },
+       "20" : {
+           "question" : "Vị Trạng Nguyên Nhỏ tuổi nhất trong lịch sử Việt Nam ?",
+           "option1"  : "Nguyễn Hiền",
+           "option2"  : "Lê Văn Thịnh",
+           "option3"  : "Vũ Tuấn Chiêu",
+           "option4"  : "Nguyễn kì",
+           "answer"   : "Nguyễn Hiền"
+        },
+       "21" : {
+           "question" : "Hiên tưởng  khi mặt trời , trái đất  và mặt trăng  theo thứ tự  cùng  nằm trên đường thẳng",
+           "option1"  : "Hoàng Hôn",
+           "option2"  : "Giao Thừa",
+           "option3"  : "Nhật Thực",
+           "option4"  : "Binh minh",
+           "answer"   : "Nhật Thực"
+        },
+       "22" : {
+           "question" : "Chuyến Bay đầu tiên thế giới của 2 anh em nha Smith đã nối liền 2 châu lục nào ?",
+           "option1"  : "ChâuPhi – ChâuMỹ",
+           "option2"  : "ChâuÂu- Châu Á",
+           "option3"  : "ChâuĐạiDương- ChâuÂu",
+           "option4"  : "ChâuMỹ-ChâuĐạiDương",
+           "answer"   : "ChâuĐạiDương- ChâuÂu"
+        },
+       "23" : {
+           "question" : "Trong Bóng đá từ ” tết ”  có nghĩa là gì ?",
+           "option1"  : "Đá Phạt",
+           "option2"  : "Đánh Đầu",
+           "option3"  : "Phạt Góc",
+           "option4"  : "Đấm Bóng",
+           "answer"   : "Đánh Đầu"
+        },
+       "24" : {
+           "question" : "Sông Mekong bắt nguồn từ đâu ?",
+           "option1"  : "Trung Quốc",
+           "option2"  : "Lào",
+           "option3"  : "Vietnam",
+           "option4"  : "Campuchia",
+           "answer"   : "Trung Quốc"
+        },
+       "25" : {
+           "question" : "Một Mét Khối nước tương đương  với bao nhiêu lít nươc ?",
+           "option1"  : "10",
+           "option2"  : "100",
+           "option3"  : "1000",
+           "option4"  : "10000",
+           "answer"   : "1000"
+        },
+       "26" : {
+           "question" : "Đội Bóng xếp thứ 3 giải  Ngoại hạng anh mùa bóng 2006-2007 ?",
+           "option1"  : "Liverpool",
+           "option2"  : "Chelsea",
+           "option3"  : "MU",
+           "option4"  : "Everton",
+           "answer"   : "Liverpool"
+        },
+       "27" : {
+           "question" : "bộ tem  bưu chính  đầu tiên của Việt Nam in Hình gì  ?",
+           "option1"  : "Hình Bông Sen",
+           "option2"  : "Hình Chùa một Cột",
+           "option3"  : "Chân Dung Hồ Chí Minh",
+           "option4"  : "Hình Hồ Gươm",
+           "answer"   : "Chân Dung Hồ Chí Minh"
+        },
+       "28" : {
+           "question" : "Điều khiển từ xa được phát minh vào năm nào ?",
+           "option1"  : "1828",
+           "option2"  : "1898",
+           "option3"  : "1788",
+           "option4"  : "1981",
+           "answer"   : "1898"
+        },
+       "29" : {
+           "question" : "Đỉnh núi Cao Nhất nước ta  Pan Xi păng Thuộc tỉnh nào ?",
+           "option1"  : " Sơn la",
+           "option2"  : "Lào Cai",
+           "option3"  : "Cao bằng",
+           "option4"  : "Bắc Cạn",
+           "answer"   : "Lào Cai"
+        },
+       "30" : {
+           "question" : "Có bao nhiêu vị trạng nguyên dưới thời vua gia long ?",
+           "option1"  : "2",
+           "option2"  : "4",
+           "option3"  : "5",
+           "option4"  : "0",
+           "answer"   : "0"
+        },
+       "31" : {
+           "question" : "Bài Thơ ” Dương phụ hành” Do ai sáng tác ?",
+           "option1"  : "Chế lan viên",
+           "option2"  : "Trần Xuân Ẩn",
+           "option3"  : " Cao Bá Quát",
+           "option4"  : "Nguyễn Văn Tố",
+           "answer"   : " Cao Bá Quát"
+        },
+       "32" : {
+           "question" : "Quốc Gia  Có Lượng Khí thải lớn Nhất Thế Giới ?",
+           "option1"  : "Đức",
+           "option2"  : "Mỹ",
+           "option3"  : "Australia",
+           "option4"  : "Anh",
+           "answer"   : "Australia"
+        },
+       "33" : {
+           "question" : "Người lao Động đat nước nào không phải cần đóng thuế ?",
+           "option1"  : "Thuỹ Sỹ",
+           "option2"  : "Kuwait",
+           "option3"  : "Singapore",
+           "option4"  : "Vatican",
+           "answer"   : "Vatican"
+        },
+       "34" : {
+           "question" : "Nguyên tử cacbon có bao nhiêu electron ?",
+           "option1"  : "4",
+           "option2"  : "7",
+           "option3"  : "6",
+           "option4"  : "8",
+           "answer"   : "6"
+        },
+       "35" : {
+           "question" : "ngày truyền thống HSSV Việt Nam  Là Ngày nào ?",
+           "option1"  : "30-4",
+           "option2"  : "21-10",
+           "option3"  : "9-1",
+           "option4"  : "22-3",
+           "answer"   : "9-1"
+        },
+       "36" : {
+           "question" : "Nguyễn Thúy Hiền Đã trỡ thành vận động viên việt nam đầu tiên giành huy chương vàng tại một giải vô địch thế giới năm bao nhiêu tuổi ?",
+           "option1"  : "17",
+           "option2"  : "14",
+           "option3"  : "20",
+           "option4"  : "22",
+           "answer"   : "14"
+        },
+       "37" : {
+           "question" : "Ngày Hạ Chí là Ngày nào ?",
+           "option1"  : "11-4",
+           "option2"  : "22-6",
+           "option3"  : "22-7",
+           "option4"  : "11-6",
+           "answer"   : "22-6"
+        },
+       "38" : {
+           "question" : "Ở loài Chó Tuyến mồ hôi tập trung hầu hết ở đâu ?",
+           "option1"  : "Chan",
+           "option2"  : "Long",
+           "option3"  : "Luoi",
+           "option4"  : "MAt",
+           "answer"   : "Luoi"
+        },
+       "39" : {
+           "question" : "Trong thế kỷ XX  nước tây ban nha tổ chức worlcup vào năm nào ?",
+           "option1"  : "1982",
+           "option2"  : "1996",
+           "option3"  : "1978",
+           "option4"  : "1956",
+           "answer"   : "1982"
+        },
+       "40" : {
+           "question" : "Hai câu thơ ” Chốn xưa xe ngựa hồn thu thảo.đền cũ lâu đài bóng tịch dương là của  tác giả nào ?",
+           "option1"  : "Hồ Xuân Hương",
+           "option2"  : "Đoàn Thị Điểm",
+           "option3"  : "Ba Huyện Thanh Quan",
+           "option4"  : "Thâm Tâm",
+           "answer"   : "Ba Huyện Thanh Quan"
+        },
+       "41" : {
+           "question" : "Đội tuyển Bóng đá Nước nào Vô Địch Euro năm 1976 ?",
+           "option1"  : "Anh",
+           "option2"  : "Phap",
+           "option3"  : "My",
+           "option4"  : "Ca 3 deu sai",
+           "answer"   : "Ca 3 deu sai"
+        },
+       "42" : {
+           "question" : "Bạn Cho Biết Vua lê nào có tên tuổi rục rỡ nhất trong thời kỳ trị nước ?",
+           "option1"  : "Lê Hiền Tông",
+           "option2"  : "Lê Thánh Tông",
+           "option3"  : "Lê Thái Tổ",
+           "option4"  : "Lê nhân Tông",
+           "answer"   : "Lê Thánh Tông"
+        },
+       "43" : {
+           "question" : "Him Lam Là Cứ Đểm tiêu diệt địch thứ mấy trong chiến dịch điện biên phủ ?",
+           "option1"  : "2",
+           "option2"  : "4",
+           "option3"  : "3",
+           "option4"  : "1",
+           "answer"   : "2"
+        },
+       "44" : {
+           "question" : "Đại dương có diện tích nhỏ nhất trên thế giới ?",
+           "option1"  : "Bắc Băng Dương",
+           "option2"  : " Đại tây Dương",
+           "option3"  : "Ấn Độ Dương",
+           "option4"  : "Thái Bình Dương",
+           "answer"   : "Bắc Băng Dương"
+        },
+       "45" : {
+           "question" : "Tên gọi khác Của quả mướp đắng ?",
+           "option1"  : "Mướp hương",
+           "option2"  : "mướp Lai",
+           "option3"  : "Bầu",
+           "option4"  : "Khổ Qua",
+           "answer"   : "Khổ Qua"
+        },
+       "46" : {
+           "question" : "Bạn Cho Biết từ năm 2001, mức lương tồng thống mỹ là bao nhiêu USD ?",
+           "option1"  : "300 Ngàn USD",
+           "option2"  : "400 Ngàn USD",
+           "option3"  : "500 Ngàn USD",
+           "option4"  : "600 Ngàn USD",
+           "answer"   : "400 Ngàn USD"
+        },
+       "47" : {
+           "question" : "Loại Đất Có Diện Tích Lớn nhất Đồng bằng sông Cửu Long ?",
+           "option1"  : " Đất Phù Sa",
+           "option2"  : "Đất Đầm Lầy",
+           "option3"  : " Đất Mặn",
+           "option4"  : "Đất Phèn",
+           "answer"   : "Đất Phèn"
+        },
+       "48" : {
+           "question" : "Tháp eiffel được hoàn tất vào năm nào ?",
+           "option1"  : "1890",
+           "option2"  : "1889",
+           "option3"  : "1880",
+           "option4"  : "1881",
+           "answer"   : "1889"
+        },
+       "49" : {
+           "question" : "Nhạc Sỹ Trịnh Công Sơn Đoạt giải ” Đĩa vàng” Tại Nhật Với Ca khúc Nào ?",
+           "option1"  : "Ngủ Đi Con",
+           "option2"  : "Bông hồng Cài Áo",
+           "option3"  : "huyền thoại mẹ",
+           "option4"  : "Nguồn Cội",
+           "answer"   : "Ngủ Đi Con"
+        },
+       "50" : {
+           "question" : "Quốc hiệu Đại Việt Chính Thức Bắt đầu từ năm nào ?",
+           "option1"  : "1054",
+           "option2"  : "1006",
+           "option3"  : "1576",
+           "option4"  : "1234",
+           "answer"   : "1054"
+        },
+       "51" : {
+           "question" : "Ngày Thu Phân Là Ngày Nao ?",
+           "option1"  : "23-9",
+           "option2"  : "22-5",
+           "option3"  : "22-6",
+           "option4"  : "22-7",
+           "answer"   : "23-9"
+        },
+       "52" : {
+           "question" : "Trong quang hợp ánh sáng màu gì có kha năng cung cấp nhiều năng lượng nhất cho cây ?",
+           "option1"  : "Tất Cả Đều Cho kết Quả Như Nhau",
+           "option2"  : "Tia Hông Ngoại và Tia Cực Tím",
+           "option3"  : "Vàng,Lục,DaCam,",
+           "option4"  : "Xanh ,Đỏ ,Tím",
+           "answer"   : "Xanh ,Đỏ ,Tím"
+        },
+       "53" : {
+           "question" : "Đội bóng nào Đã Vô Địch WC 1998 ?",
+           "option1"  : "Đức",
+           "option2"  : "Pháp",
+           "option3"  : "Ý",
+           "option4"  : "Mỹ",
+           "answer"   : "Pháp"
+        },
+       "54" : {
+           "question" : "Bác hồ  Phát Động tết trồng cây  vào năm nào ?",
+           "option1"  : "1960",
+           "option2"  : "1950",
+           "option3"  : "1945",
+           "option4"  : "1955",
+           "answer"   : "1960"
+        },
+       "55" : {
+           "question" : "Điểm Thi Đấu Sea Games Phải Treo bao Nhiêu Lá Cờ ?",
+           "option1"  : "14",
+           "option2"  : "12",
+           "option3"  : "13",
+           "option4"  : "10",
+           "answer"   : "14"
+        },
+       "56" : {
+           "question" : "Những hành tinh nào không có bầu Khí quyển ?",
+           "option1"  : "kim Tinh",
+           "option2"  : "Thuỷ Tinh",
+           "option3"  : "Trái Đất",
+           "option4"  : "Mộc Tinh",
+           "answer"   : "Thuỷ Tinh"
+        }
+    },
+    "Scores" : [
+        {
+            "user" 	  : "MightyDebugger",
+            "score"   : 200
+		}
+    ]
+}

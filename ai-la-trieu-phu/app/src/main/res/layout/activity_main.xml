@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageLogo"
+        android:src="@drawable/icon"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bắt đầu"
+        android:id="@+id/btnPlay"
+        android:textAlignment="center"
+        android:textColorHighlight="#171212"
+        android:enabled="true"
+        android:focusable="true"
+
+        android:minWidth="180dp"
+        android:textSize="20dp"
+        android:minHeight="55dp"
+        android:layout_below="@+id/imageLogo"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hướng Dẫn"
+        android:id="@+id/btnHelp"
+        android:layout_below="@+id/btnPlay"
+        android:layout_centerHorizontal="true"
+        android:minWidth="180dp"
+        android:maxWidth="200dp"
+        android:textSize="20dp"
+        android:enabled="true"
+        android:focusable="true"
+
+        android:minHeight="55dp" />
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Điểm Cao"
+        android:id="@+id/btnScore"
+        android:textSize="20dp"
+        android:layout_below="@+id/btnHelp"
+        android:layout_alignLeft="@+id/btnHelp"
+        android:layout_alignStart="@+id/btnHelp"
+        android:layout_alignRight="@+id/btnHelp"
+        android:layout_alignEnd="@+id/btnHelp"
+        android:minHeight="55dp"
+        android:enabled="true"
+        android:focusable="true"
+        />
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thoát"
+        android:id="@+id/btnExit"
+        android:layout_below="@+id/btnScore"
+        android:layout_alignLeft="@+id/btnScore"
+        android:layout_alignStart="@+id/btnScore"
+        android:layout_alignRight="@+id/btnScore"
+        android:layout_alignEnd="@+id/btnScore"
+        android:minWidth="180dp"
+        android:textSize="20dp"
+        android:minHeight="55dp"
+        android:focusable="true"
+
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgSound"
+        android:src="@drawable/sound"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
